@@ -30,7 +30,7 @@ Gets or sets the node's `innerText`.
 
 ### `Node.prototype.html(value)`
 
-Gets or sets the node's `innerText`.
+Gets or sets the node's `innerHTML`.
 
 ### `Node.prototype.attr(name, value)`
 
