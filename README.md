@@ -1,8 +1,6 @@
 # suchjs
 
-> Such JavaScript. Library wow.
-
-`suchjs` provides essential jQuery like methods for your evergreen browser, in under 200 lines of code.
+> Provides essential jQuery-like methods for your evergreen browser, in under 200 lines of code. Such small.
 
 The code is written in a modular enough way that pieces can be removed easily, if that's deemed necessary. Just grab the bits you need!
 
